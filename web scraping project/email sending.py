@@ -100,9 +100,9 @@ def main():
 
 def send_email(top_5_products):
     # Email configuration
-    sender_email = 'trabelsizeineb@tbs.u-tunis.tn'
-    receiver_email = 'nourltaief399@gmail.com'
-    password = 'Zeineb0107'
+    sender_email = 'trabelsizeineb@********'
+    receiver_email = 'nourltaief399@******'
+    password = '*******'
 
     # Email content
     subject = 'Top 5 Products Based on Score'
